@@ -1,0 +1,33 @@
+#top-bar {
+  background-color: darkgrey;
+  width: 100vw;
+  height: 15vh;
+}
+
+#left-bar {
+  background-color: lightgray;
+  width: 9vw;
+  height: 85vh;
+  display: inline-block;
+}
+
+.center-white {
+ background-color: white;
+ width: 80vw;
+ height: 60vh;
+ display: inline-block;
+}
+
+#bottom-bar {
+  background-color: black;
+  width: 80vw;
+  height: 15vh;
+}
+
+#right-bar {
+  background-color: lightgray;
+  width: 9vw;
+  height: 85vh;
+  display: inline-block;
+}
+

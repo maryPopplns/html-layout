@@ -1,0 +1,59 @@
+#header {
+  border-style: solid;
+}
+
+#purple {
+  background: purple;
+  padding-left: 5px;
+  margin-right: 40px;
+  height: 100px;
+  width: 40px;
+  display: inline-block;
+}
+
+#green {
+  background: green;
+  padding-left: 5px;
+  padding-right: 40px;
+  margin-right: 30px;
+  height: 120px;
+  width: 240px;
+  display: inline-block;
+}
+
+#light-blue {
+  height: 120px;
+  width: 120px;
+  background-color: lightblue;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+#middle {
+  border-style: dotted;
+}
+
+#tan-shadow {
+  border-style: outset;
+  height: 200px;
+  width: 80%;
+  margin: 10px;
+  background: tan;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#footer {
+  border-style: outset;
+  height: 400px;
+  width: 400px;
+  
+}
+
+.p1 {
+  letter-spacing: 5px;
+  color: blue;
+  font-size: 30px;
+  text-align: center;
+
+}
